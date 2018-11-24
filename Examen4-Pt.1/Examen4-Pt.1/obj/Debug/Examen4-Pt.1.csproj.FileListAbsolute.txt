@@ -1,0 +1,7 @@
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\bin\Debug\Examen4-Pt.1.exe.config
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\bin\Debug\Examen4-Pt.1.exe
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\bin\Debug\Examen4-Pt.1.pdb
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\obj\Debug\Examen4-Pt.1.csprojAssemblyReference.cache
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\obj\Debug\Examen4-Pt.1.csproj.CoreCompileInputs.cache
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\obj\Debug\Examen4-Pt.1.exe
+c:\users\boyhu\source\repos\Examen4-Pt.1\Examen4-Pt.1\obj\Debug\Examen4-Pt.1.pdb
